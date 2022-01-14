@@ -1,4 +1,4 @@
-import { IStrategy } from 'interfaces/strategy.interface'
+import { IStrategy } from 'interfaces/strategy'
 
 // El contexto define la interfaz de interés para los clientes.
 export class Context {
